@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "http://bit.ly/2KKB40S"
+  status = 301
+  force = true
